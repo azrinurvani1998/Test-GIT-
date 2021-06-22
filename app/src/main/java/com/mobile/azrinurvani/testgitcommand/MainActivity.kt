@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //Hallo test first commit dulu ya
+
+        //ini dari azrinurvani yaa
     }
 }
